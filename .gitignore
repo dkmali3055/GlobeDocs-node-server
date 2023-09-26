@@ -1,0 +1,10 @@
+*/node_modules
+.env
+.env.*
+server/src/db/config.json
+.DS_Store
+server/dist
+
+node_modules
+
+package-lock.json
